@@ -3,6 +3,7 @@
 * {
     margin: 0px;
     padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 html, body {
@@ -13,7 +14,7 @@ html, body {
 
 main {
     position: relative;
-    height: 100vw;
+    height: 100vh;
 }
 
 body {
@@ -58,4 +59,3 @@ section#redes-sociais img:hover {
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.596);
     transition: transform .4s, border 1s;
 }
-
